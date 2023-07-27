@@ -1,0 +1,1 @@
+gradle clean test --tests *com.eliteprofessional.cmpc.runners.pedidoExcelMEXFDHC11Runner aggregate & cd target/site/serenity & index.html
